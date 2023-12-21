@@ -1,7 +1,7 @@
 # Edgar Sevilla
 #Project #1
 
-Description: My personal portfolio website about me.
+Description: My personal website portfolio about me.
 
 This website describes
 
